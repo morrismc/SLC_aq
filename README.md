@@ -13,3 +13,8 @@ The black lines are the period in days of the year wherein there was a significa
 I also explored several cumulative plot methods for exploring this dataset:
 
 ![Cumulative plot all year](cumulative-plot_all_year.jpg)
+
+In this cumulative plot, 2020 is the redmost line which again doesn't have the lowest values compared with 2019 or even 2018.
+
+A few more plots below:
+![short year faceted](shortend_year_faceted.jpeg)
