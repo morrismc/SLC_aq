@@ -12,4 +12,4 @@ The black lines are the period in days of the year wherein there was a significa
 
 I also explored several cumulative plot methods for exploring this dataset:
 
-![Cumulative plot all year](cumulative-plot_all_year.pdf)
+![Cumulative plot all year](cumulative-plot_all_year.jpg)
