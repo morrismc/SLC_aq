@@ -16,5 +16,7 @@ I also explored several cumulative plot methods for exploring this dataset:
 
 In this cumulative plot, 2020 is the redmost line which again doesn't have the lowest values compared with 2019 or even 2018.
 
-A few more plots below:
+Another plot below looking at a shortened year starting in March, 2020.
 ![short year faceted](shortend_year_faceted.jpeg)
+
+More analysis can be reviewed at my [blog](https://matthewmorriss.weebly.com/codeblog/salt-lake-city-lockdown-aq)
